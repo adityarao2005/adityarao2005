@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 -->
 
 ### 🚀 About Me
-🌱 I’m an engineer pursuing a degree in Computer Engineering. <br/>
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things. <br/>
-😈 I'm a sigma. <br/>
 
 ---
 
