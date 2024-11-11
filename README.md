@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarao2005&layout=compact" alt="Top Langs" width="300px">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=adityarao2005" alt="Stats" width="350px"> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=adityarao2005" alt="Stats" width="350px">
     <img src="https://streak-stats.demolab.com/?user=adityarao2005&ring=FF5B5BBE&currStreakLabel=5D8ED0&sideLabels=5D8ED0&dates=00000" alt="Streak" width="422px">
 </p>
 
