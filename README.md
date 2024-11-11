@@ -61,14 +61,14 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoa32&layout=compact" alt="Top Langs" width="300px">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=raoa32" alt="Stats" width="350px"> -->
-    <img src="https://streak-stats.demolab.com/?user=raoa32&ring=FF5B5BBE&currStreakLabel=5D8ED0&sideLabels=5D8ED0&dates=00000" alt="Streak" width="422px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarao2005&layout=compact" alt="Top Langs" width="300px">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=adityarao2005" alt="Stats" width="350px"> -->
+    <img src="https://streak-stats.demolab.com/?user=adityarao2005&ring=FF5B5BBE&currStreakLabel=5D8ED0&sideLabels=5D8ED0&dates=00000" alt="Streak" width="422px">
 </p>
 
 ---
 
 ### 📫 Connect with me on LinkedIn
-<a href="https://www.linkedin.com/in/joshua-xue/" target="_blank">
+<a href="https://www.linkedin.com/in/aditya-g-rao" target="_blank">
     <img width="50px" src="https://cdn.simpleicons.org/linkedin">
 </a>
